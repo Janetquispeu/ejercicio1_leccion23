@@ -5,3 +5,6 @@
 -Declaro var persona= y le asigno las propiedades y métodos de EntidadPersona.
 var persona = new EntidadPersona(nombre, edad, sexo);
 - Declaro mi var=imprimir llamando con su id=imprimir desde el html, para que se almacene mi texto(el return ) y se visualice en el html.Para ello le doy el valor persona.datos().
+
+
+![image](ejercicio.png)
